@@ -1,7 +1,6 @@
-# af-magic.zsh-theme
+# Modified from af-magic.zsh-theme
 #
-# Author: Andy Fleming
-# URL: http://andyfleming.com/
+# Author: Tim Wang, Andy Fleming
 
 
 # primary prompt: dashed separator, directory and vcs info
