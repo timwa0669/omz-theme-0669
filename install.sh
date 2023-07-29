@@ -1,6 +1,6 @@
 #!/bin/sh
 
-
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
 cd ${HOME}/.oh-my-zsh/custom
 rm -rf omz-theme-0669 themes/0669.zsh-theme
 git clone https://github.com/timwa0669/omz-theme-0669
